@@ -141,10 +141,3 @@ nyc_airbnb |>
   addCircleMarkers(~lat, ~long, radius = .5)
 ```
 
-
-
-
-
-
-
-
